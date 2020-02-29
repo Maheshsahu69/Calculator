@@ -1,0 +1,25 @@
+.button {
+    background-color: dimgray;
+    border: none;
+    color:white ;
+    padding: 21px;
+    text-align: center;
+    margin: 8px 5px;
+    border-radius: 50%;
+    height: 0.5em;
+    font-size: 1.4em;
+    align-items: center;
+    display: flex;
+    flex: 1; 
+    font-weight: lighter;
+ 
+  
+  }
+  .operator {
+    background-color:#80b3ff;
+    color: #fff;
+  }
+
+  .button:active{
+  color:#80b3ff;
+  }

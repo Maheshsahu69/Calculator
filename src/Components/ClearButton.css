@@ -1,0 +1,10 @@
+.clear-btn {
+    background-color: dimgray;
+    border: none;
+    color: #F8F8FF;
+    padding: 20px;
+    text-align: center;
+    margin: 8px 5px;
+    border-radius: 50%;
+    font-size: 25px;
+  }
