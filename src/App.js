@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Button from './Components/Button';
 import Input from './Components/Input';
-import ClearButton from './Components/ClearButton';
+import ClearButton from './Components/ClearButton'
 class App extends React.Component {
   constructor(props) {
     super(props);

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Button.css';
+import './Button.css'
 class Button extends React.Component {
     isOperator = val =>{
         return !isNaN(val) || val=== "_" || val === "!=";
