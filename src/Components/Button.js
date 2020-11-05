@@ -4,7 +4,6 @@ class Button extends React.Component {
     isOperator = val =>{
         return !isNaN(val) || val=== "_" || val === "!=";
     };
-  
   render() {
     return (
       <div className={`button ${this.isOperator(this.props.children) ? "" :"operator"}`}
